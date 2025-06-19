@@ -29,13 +29,13 @@ Sleep Hours vs Stress
 
 Dashboard Preview; ![power bi dashboard png](https://github.com/user-attachments/assets/0d62bcf5-df31-45ff-831b-26601f384a89)
 
-1 **KPI Cards**
+1. **KPI Cards**
 1.1. Social Media Time: 3.08 hrs| Average time spent daily across platforms
 1.2.  Productivity Score: 4.97 (Actual), 4.9–5.1 across platforms 
 1.3. Job Satisfaction: 4.95 average| Average satisfaction with one’s current work life
 - These cards present a **high-level snapshot** of key performance indicators.
 - We observe that even with **moderate media use**, the actual productivity score hovers around **4.9–5.0**, suggesting resilience in output but possibly under self-reported perception biases.
-
+  
 2. **Social Media Time vs Actual Productivity** (column Chart)
 - TikTok users spend the most time on social media (~5.1 hrs/day), yet their productivity remains moderate (3.2).
 - All platforms (Telegram, Facebook, Instagram) showed *similar actual productivity scores (~4.9)*.
