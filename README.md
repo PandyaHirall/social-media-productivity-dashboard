@@ -32,8 +32,7 @@ Folder Structure
 Dashboard Preview; ![power bi dashboard png](https://github.com/user-attachments/assets/0d62bcf5-df31-45ff-831b-26601f384a89)
 
 KPI Cards
-1. Social Media Time
-   ![Screenshot 2025-06-18 181947]
+1. Social Media Time![Screenshot 2025-06-18 181947]
    (https://github.com/user-attachments/assets/53ea81e2-65de-4e17-89b0-5ecf669f4f69)
 2. Productivity Score: 4.97 (Actual), 4.9–5.1 across platforms
    ![Screenshot 2025-06-18 181959]
