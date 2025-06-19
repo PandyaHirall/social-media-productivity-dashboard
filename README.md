@@ -1,3 +1,5 @@
+
+
 Impact of Social Media on Productivity & Well-Being
 
 📁 Dataset Source
@@ -58,7 +60,7 @@ Dashboard Preview; ![power bi dashboard png](https://github.com/user-attachments
 - After 10+ hrs/day, actual productivity *drops below 4.5*, showing a direct cost of overuse.
 > *Conclusion*: There’s a *threshold (~9 hrs)* beyond which productivity drops sharply.
 
-6. **Perceived Productivity vs Social Media Time**
+6.**Perceived Productivity vs Social Media Time**
 - Interestingly, people *perceive themselves as more productive* even when their actual score drops.
 - A *gap appears beyond 10 hrs/day*: people think they’re productive, but reality shows otherwise.
 > *Conclusion*: Self-perception can be misleading — data reveals blind spots in self-evaluation.
